@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 
-## Version 9
+## Firebase 9
 
-* [Authentication](version-9/authentication.md)
+* [Webpack](firebase-9/webpack.md)
+* [Setting up Webpack](firebase-9/setting-up-webpack.md)
