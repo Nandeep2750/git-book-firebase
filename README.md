@@ -34,8 +34,8 @@ To effectively utilize Firebase, developers should have a foundational understan
 * Basic knowledge of RESTful APIs for some Firebase services
 * Familiarity with command-line interfaces (CLI) and version control systems like Git.
 
-
-
 ## Summary
 
 Firebase is a versatile and powerful platform that empowers developers to build high-quality web and mobile applications with ease. Whether you're creating a small personal project or a large-scale, real-time application, Firebase's suite of services can accelerate development, enhance user experiences, and simplify the management of backend infrastructure. As you delve deeper into Firebase, you'll discover its flexibility and capabilities to bring your application ideas to life.
+
+{% embed url="https://youtu.be/9zdvmgGsww0?si=59UmsLjmFQH3DJMo" %}

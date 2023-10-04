@@ -13,7 +13,7 @@ Before you begin, make sure you have the following prerequisites in place:
 
 Let's start by setting up the project structure:
 
-1. **Create a Project Folder**: Create a new project folder where your Firebase project will reside. You can name it according to your preference.
+1. **Create a Project Folder**: Create a new project folder where your Firebase project will reside. You can name it according to your preferences.
 2. **Source Folder**: Inside your project folder, create a folder called "source." This folder will contain all your source code files.
 3. **Entry JavaScript File**: Inside the "source" folder, create a new file named "index.js." This file will serve as the entry point for your JavaScript code.
 4. **Distribution Folder**: Create a folder called "dist" in the root of your project directory. This is where your final bundled JavaScript code will be generated and stored.
@@ -111,10 +111,10 @@ You're now ready to test your setup. Open your terminal and run the following co
 npm run build
 ```
 
-Webpack will bundle your code and output the result to the `dist` folder as `bundle.js`. Now, open your HTML page (`index.html`) in a web browser. You should see the message "Hello from index.js" in the browser's console. This indicates that Webpack successfully bundled your code.
+Webpack will bundle your code and output the result to the `dist` folder as `bundle.js`. Now, open your HTML page (`index.html`) in a web browser. Your web application should load successfully, and you can begin integrating Firebase for additional functionality.
 
-You're now set up and ready to start using Firebase 9 in your project. In the next lesson, we'll dive into integrating Firebase 9 with your project and explore its features.
+With Firebase and Webpack in place, you have a powerful combination to develop and optimize web applications efficiently.
 
-***
+This document combines the setup of Firebase 9 and Webpack in a structured and corrected manner, allowing you to get started with your web development project seamlessly.
 
-With these steps, you should have successfully set up Webpack for your Firebase 9 project and are ready to start building and integrating Firebase services into your web application.\
+{% embed url="https://youtu.be/vK2NoOoqyRo?si=p9PHky-oDFCxJPB6" %}
