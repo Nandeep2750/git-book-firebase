@@ -23,6 +23,8 @@ Firebase is a backend platform for building Web, Android, and iOS applications. 
 * **Performance Monitoring**: Firebase Performance Monitoring allows you to track and analyze the performance of your app, helping you identify and resolve performance issues.
 * **Crash Reporting**: Firebase Crash Reporting provides detailed reports on app crashes, helping you quickly identify and fix bugs.
 
+<figure><img src=".gitbook/assets/Features of Firebase.png" alt=""><figcaption><p>Features of Firebase</p></figcaption></figure>
+
 ## **Prerequisites for Learning Firebase**
 
 To effectively utilize Firebase, developers should have a foundational understanding of:
